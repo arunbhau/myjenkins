@@ -1,2 +1,2 @@
 print("hello")
-echo $HOME
+print("hii csec")
