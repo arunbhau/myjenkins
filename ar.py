@@ -1,2 +1,2 @@
 print("hello")
-Echo $HOME
+echo $HOME
